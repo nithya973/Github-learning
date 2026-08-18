@@ -11,7 +11,7 @@ Attend atleast one meeting
 </p>
 how to draw table:
 <br>
-|Name|Age|Qualification|<br>
+|Name|Age|Qualification|  <br>
 |:---|:---:|---:|<br>
 |Joe    |17|Bcom|<br>
 |Vaishu |18|BIM |<br>
