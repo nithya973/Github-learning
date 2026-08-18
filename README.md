@@ -23,6 +23,9 @@ Creating drop_down
 </details>
   [git-hub]("https://github.com")<br>
   [git-hub]("https://github.com" "Click title")
+  <mark>this is example for highlighting text</mark>
+  <a href="WWW.google.com">Click here to go to google</a>
+  
   
 </details>
 
