@@ -5,7 +5,7 @@
 <hr>
 <b> membership</b>
 <p align="Center">
-<i>open to all students
+<i>open to all students<br>
 Attend atleast one meeting
 </i>
 </p>
