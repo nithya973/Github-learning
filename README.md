@@ -34,9 +34,12 @@ Creating drop_down
   <b>Schedule</b>
   <br>
   
+  
   |  Time    |   Activity    |
   |  ---     |   ---         |
   |  9:00 AM |   Registration|
   |  9:30 AM |Safety briefing|
   |  12:00 PM|refreshments   |
 
+:fire:
+[image]https://storage.googleapis.com/kaggle-datasets-images/4722249/8015245/737ab81969b3ce8dee6e4e578cfcb7f7/dataset-card.jpg?t=2024-04-21-09-20-50
