@@ -33,6 +33,7 @@ Creating drop_down
   <p>Organise a neighborhood Cleanup to improve the local environment</p>
   <b>Schedule</b>
   <br>
+  
   |  Time    |   Activity    |
   |  ---     |   ---         |
   |  9:00 AM |   Registration|
