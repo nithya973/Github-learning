@@ -7,6 +7,8 @@
 <p align="Center">
 <i>open to all students
 Attend atleast one meeting
+</i>
+</p>
 how to draw table:
 <br>
 |Name|Age|Qualification|<br>
