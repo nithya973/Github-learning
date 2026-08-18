@@ -9,11 +9,11 @@
 Attend atleast one meeting
 how to draw table:
 <br>
-|Name|Age|Qualification|
-|:---|:---:|---:|
-|Joe|17|Bcom|
-|Vaishu|18|BIM|
-|Loshini|17|BCA|
+|Name|Age|Qualification|<br>
+|:---|:---:|---:|<br>
+|Joe|17|Bcom|<br>
+|Vaishu|18|BIM|<br>
+|Loshini|17|BCA|<br>
 Creating drop_down
 <details>
   <Summary>Click for hidden contents</Summary>
