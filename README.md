@@ -29,6 +29,7 @@ Creating drop_down
   #Community Cleanup Event<br>
   ####Objective<br>
   <p>Organise a neighborhood Cleanup to improve the local environment</p>
-  
+  <b>Schedule</b>
+  <br>
   
 
