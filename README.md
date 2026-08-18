@@ -1,6 +1,6 @@
-#Example:club Guide
-##photography club Guide
-###About the club
+#Example:club Guide<br>
+##photography club Guide<br>
+###About the club<br>
 <p> the photography club helps members learn photography technique,share,ideas, and organise photo walks</p>
 <hr>
 <b> membership</b>
